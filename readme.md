@@ -1,0 +1,1 @@
+## **The csv with the training data can be found here [kaggle](https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction/data?select=train.csv)**
